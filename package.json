@@ -1,0 +1,19 @@
+{
+  "name": "w3ctech",
+  "version": "1.0.0",
+  "description": "frontend basic tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackhou2007/w3ctech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackhou2007/w3ctech/issues"
+  },
+  "homepage": "https://github.com/jackhou2007/w3ctech"
+}
